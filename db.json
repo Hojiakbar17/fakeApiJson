@@ -6,8 +6,8 @@
   ],
   
   "mentors": [
-    {"date": 2020-09-01, "id": 1, "name": "Alisher Davlatov", "studentsCount": 300, "thisMonth": 21, "courses": 3},
-    {"date": 2020-10-01, "id": 1, "name": "Alisher Davlatov", "studentsCount": 450, "thisMonth": 25, "courses": 5},
+    {"date": "2020-09-01", "id": 1, "name": "Alisher Davlatov", "studentsCount": 300, "thisMonth": 21, "courses": 3},
+    {"date": '2020-10-01', "id": 1, "name": "Alisher Davlatov", "studentsCount": 450, "thisMonth": 25, "courses": 5},
     {"date": "2020-09-01", "id": 1, "name": "Nizom Muhammaddov", "studentsCount": 300, "thisMonth": 21, "courses": 3},
     {"date": "2020-10-01", "id": 1, "name": "Nizom Muhammaddov", "studentsCount": 450, "thisMonth": 25, "courses": 5}
   ],
