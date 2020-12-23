@@ -3,5 +3,11 @@
     {"id": 1, "firstName": "Hojiakbar", "lastName": "Shirinov"},
     {"id": 2, "firstName": "Ali", "lastName": "Valiyev"},
     {"id": 3, "firstName": "Vali", "lastName": "Aliyev"}
+  ],
+  
+  "mentors": [
+    "date": [
+      {"date": "2020-09-01", "id": 1, "name": "Alisher Davlatov", "studentsCount": 300, "thisMonth": 21, "courses": 3}
+    ]
   ]
 }
