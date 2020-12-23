@@ -6,28 +6,57 @@
   ],
   
   "mentors": [
-    {"date": "2020-09-01", "id": 1, "name": "Dilshod Mirsoatov", "studentsCount": 300, "thisMonth": 21, "courses": 3, "income": 8000000, "given": 5000000, "qoldi": 3000000,
+    {"date": "2020-09-01", "id": 1, "name": "Alisher Davlatov", "studentsCount": 300, "thisMonth": 21, "courses": 3, "income": 8300000, "given": 5300000, "qoldi": 3000000,
+      "more": [
+        {"courseName": "Backend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3200000, "given": 2200000, "qoldi": 1000000},
+        {"courseName": "Java Development", "modules": 3, "lessons": 30, "students": 80, "thisMonth": 7, "income": 4100000, "given": 210000, "qoldi": 2000000},
+        {"courseName": "FullStack Development", "modules": 2, "lessons": 24, "students": 100, "thisMonth": 12, "income": 1000000, "given": 1000000, "qoldi": 0}
+      ]},
+    
+     {"date": "2020-10-01", "id": 1, "name": "Alisher Davlatov", "studentsCount": 300, "thisMonth": 21, "courses": 3, "income": 9000000, "given": 5000000, "qoldi": 4000000,
+      "more": [
+        {"courseName": "Backend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3000000, "given": 2000000, "qoldi": 1000000},
+        {"courseName": "Java Development", "modules": 3, "lessons": 30, "students": 80, "thisMonth": 7, "income": 4000000, "given": 2000000, "qoldi": 2000000},
+        {"courseName": "FullStack Development", "modules": 2, "lessons": 24, "students": 100, "thisMonth": 12, "income": 2000000, "given": 1000000, "qoldi": 0}
+      ]},
+    
+    {"date": "2020-11-01", "id": 1, "name": "Alisher Davlatov", "studentsCount": 330, "thisMonth": 21, "courses": 3, "income": 8000000, "given": 5000000, "qoldi": 3000000,
+      "more": [
+        {"courseName": "Backend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3000000, "given": 2000000, "qoldi": 1000000},
+        {"courseName": "Java Development", "modules": 3, "lessons": 30, "students": 90, "thisMonth": 7, "income": 4000000, "given": 2000000, "qoldi": 2000000},
+        {"courseName": "FullStack Development", "modules": 2, "lessons": 24, "students": 120, "thisMonth": 12, "income": 1000000, "given": 1000000, "qoldi": 0}
+      ]},
+    
+    {"date": "2020-12-01", "id": 1, "name": "Alisher Davlatov", "studentsCount": 350, "thisMonth": 25, "courses": 3, "income": 7000000, "given": 4000000, "qoldi": 3000000,
+      "more": [
+        {"courseName": "Backend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3000000, "given": 2000000, "qoldi": 1000000},
+        {"courseName": "Java Development", "modules": 3, "lessons": 30, "students": 100, "thisMonth": 1, "income": 3000000, "given": 1000000, "qoldi": 1000000},
+        {"courseName": "FullStack Development", "modules": 2, "lessons": 24, "students": 130, "thisMonth": 12, "income": 1000000, "given": 1000000, "qoldi": 0}
+      ]},
+    
+    
+    {"date": "2020-09-01", "id": 2, "name": "Nizom Muhammaddov", "studentsCount": 300, "thisMonth": 21, "courses": 3, "income": 8000000, "given": 5000000, "qoldi": 3000000,
       "more": [
         {"courseName": "Frontend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3000000, "given": 2000000, "qoldi": 1000000},
         {"courseName": "React JS", "modules": 3, "lessons": 30, "students": 80, "thisMonth": 7, "income": 4000000, "given": 2000000, "qoldi": 2000000},
         {"courseName": "SaaS va Less", "modules": 2, "lessons": 24, "students": 100, "thisMonth": 2, "income": 1000000, "given": 1000000, "qoldi": 0}
       ]},
     
-    {"date": "2020-10-01", "id": 1, "name": "Dilshod Mirsoatov", "studentsCount": 350, "thisMonth": 25, "courses": 3, "income": 7000000, "given": 4000000, "qoldi": 3000000,
+    {"date": "2020-10-01", "id": 2, "name": "Nizom Muhammaddov", "studentsCount": 350, "thisMonth": 25, "courses": 3, "income": 7000000, "given": 4000000, "qoldi": 3000000,
       "more": [
         {"courseName": "Frontend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3000000, "given": 2000000, "qoldi": 1000000},
         {"courseName": "React JS", "modules": 3, "lessons": 30, "students": 100, "thisMonth": 1, "income": 3000000, "given": 1000000, "qoldi": 1000000},
         {"courseName": "SaaS va Less", "modules": 2, "lessons": 24, "students": 130, "thisMonth": 12, "income": 1000000, "given": 1000000, "qoldi": 0}
       ]},
     
-    {"date": "2020-11-01", "id": 1, "name": "Dilshod Mirsoatov", "studentsCount": 330, "thisMonth": 21, "courses": 3, "income": 8000000, "given": 5000000, "qoldi": 3000000,
+    {"date": "2020-11-01", "id": 2, "name": "Nizom Muhammaddov", "studentsCount": 330, "thisMonth": 21, "courses": 3, "income": 8000000, "given": 5000000, "qoldi": 3000000,
       "more": [
         {"courseName": "Frontend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3000000, "given": 2000000, "qoldi": 1000000},
         {"courseName": "React JS", "modules": 3, "lessons": 30, "students": 90, "thisMonth": 7, "income": 4000000, "given": 2000000, "qoldi": 2000000},
         {"courseName": "SaaS va Less", "modules": 2, "lessons": 24, "students": 120, "thisMonth": 12, "income": 1000000, "given": 1000000, "qoldi": 0}
       ]},
     
-    {"date": "2020-12-01", "id": 1, "name": "Dilshod Mirsoatov", "studentsCount": 380, "thisMonth": 31, "courses": 3, "income": 9000000, "given": 5000000, "qoldi": 4000000,
+    {"date": "2020-12-01", "id": 2, "name": "Nizom Muhammaddov", "studentsCount": 380, "thisMonth": 31, "courses": 3, "income": 9000000, "given": 5000000, "qoldi": 4000000,
       "more": [
         {"courseName": "Frontend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3000000, "given": 2000000, "qoldi": 1000000},
         {"courseName": "React JS", "modules": 3, "lessons": 30, "students": 80, "thisMonth": 7, "income": 4000000, "given": 2000000, "qoldi": 2000000},
@@ -35,42 +64,37 @@
       ]},
     
     
-    {"date": "2020-09-01", "id": 2, "name": "Alisher Davlatov", "studentsCount": 300, "thisMonth": 21, "courses": 3, "income": 8300000, "given": 5300000, "qoldi": 3000000,
+    {"date": "2020-09-01", "id": 3, "name": "Dilshod Mirsoatov", "studentsCount": 300, "thisMonth": 21, "courses": 3, "income": 8000000, "given": 5000000, "qoldi": 3000000,
       "more": [
-        {"courseName": "Backend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3200000, "given": 2200000, "qoldi": 1000000},
-        {"courseName": "Java Development", "modules": 3, "lessons": 30, "students": 80, "thisMonth": 7, "income": 4100000, "given": 210000, "qoldi": 2000000},
-        {"courseName": "FullStack Development", "modules": 2, "lessons": 24, "students": 100, "thisMonth": 12, "income": 1000000, "given": 1000000, "qoldi": 0}
+        {"courseName": "Frontend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3000000, "given": 2000000, "qoldi": 1000000},
+        {"courseName": "React JS", "modules": 3, "lessons": 30, "students": 80, "thisMonth": 7, "income": 4000000, "given": 2000000, "qoldi": 2000000},
+        {"courseName": "SaaS va Less", "modules": 2, "lessons": 24, "students": 100, "thisMonth": 2, "income": 1000000, "given": 1000000, "qoldi": 0}
       ]},
     
-     {"date": "2020-10-01", "id": 2, "name": "Alisher Davlatov", "studentsCount": 300, "thisMonth": 21, "courses": 3, "income": 9000000, "given": 5000000, "qoldi": 4000000,
+    {"date": "2020-10-01", "id": 3, "name": "Dilshod Mirsoatov", "studentsCount": 350, "thisMonth": 25, "courses": 3, "income": 7000000, "given": 4000000, "qoldi": 3000000,
       "more": [
-        {"courseName": "Backend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3000000, "given": 2000000, "qoldi": 1000000},
-        {"courseName": "Java Development", "modules": 3, "lessons": 30, "students": 80, "thisMonth": 7, "income": 4000000, "given": 2000000, "qoldi": 2000000},
-        {"courseName": "FullStack Development", "modules": 2, "lessons": 24, "students": 100, "thisMonth": 12, "income": 2000000, "given": 1000000, "qoldi": 0}
+        {"courseName": "Frontend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3000000, "given": 2000000, "qoldi": 1000000},
+        {"courseName": "React JS", "modules": 3, "lessons": 30, "students": 100, "thisMonth": 1, "income": 3000000, "given": 1000000, "qoldi": 1000000},
+        {"courseName": "SaaS va Less", "modules": 2, "lessons": 24, "students": 130, "thisMonth": 12, "income": 1000000, "given": 1000000, "qoldi": 0}
       ]},
     
-    {"date": "2020-11-01", "id": 2, "name": "Alisher Davlatov", "studentsCount": 330, "thisMonth": 21, "courses": 3, "income": 8000000, "given": 5000000, "qoldi": 3000000,
+    {"date": "2020-11-01", "id": 3, "name": "Dilshod Mirsoatov", "studentsCount": 330, "thisMonth": 21, "courses": 3, "income": 8000000, "given": 5000000, "qoldi": 3000000,
       "more": [
-        {"courseName": "Backend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3000000, "given": 2000000, "qoldi": 1000000},
-        {"courseName": "Java Development", "modules": 3, "lessons": 30, "students": 90, "thisMonth": 7, "income": 4000000, "given": 2000000, "qoldi": 2000000},
-        {"courseName": "FullStack Development", "modules": 2, "lessons": 24, "students": 120, "thisMonth": 12, "income": 1000000, "given": 1000000, "qoldi": 0}
+        {"courseName": "Frontend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3000000, "given": 2000000, "qoldi": 1000000},
+        {"courseName": "React JS", "modules": 3, "lessons": 30, "students": 90, "thisMonth": 7, "income": 4000000, "given": 2000000, "qoldi": 2000000},
+        {"courseName": "SaaS va Less", "modules": 2, "lessons": 24, "students": 120, "thisMonth": 12, "income": 1000000, "given": 1000000, "qoldi": 0}
       ]},
     
-    {"date": "2020-12-01", "id": 2, "name": "Alisher Davlatov", "studentsCount": 350, "thisMonth": 25, "courses": 3, "income": 7000000, "given": 4000000, "qoldi": 3000000,
+    {"date": "2020-12-01", "id": 3, "name": "Dilshod Mirsoatov", "studentsCount": 380, "thisMonth": 31, "courses": 3, "income": 9000000, "given": 5000000, "qoldi": 4000000,
       "more": [
-        {"courseName": "Backend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3000000, "given": 2000000, "qoldi": 1000000},
-        {"courseName": "Java Development", "modules": 3, "lessons": 30, "students": 100, "thisMonth": 1, "income": 3000000, "given": 1000000, "qoldi": 1000000},
-        {"courseName": "FullStack Development", "modules": 2, "lessons": 24, "students": 130, "thisMonth": 12, "income": 1000000, "given": 1000000, "qoldi": 0}
+        {"courseName": "Frontend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3000000, "given": 2000000, "qoldi": 1000000},
+        {"courseName": "React JS", "modules": 3, "lessons": 30, "students": 80, "thisMonth": 7, "income": 4000000, "given": 2000000, "qoldi": 2000000},
+        {"courseName": "SaaS va Less", "modules": 2, "lessons": 24, "students": 100, "thisMonth": 12, "income": 2000000, "given": 1000000, "qoldi": 1000000}
       ]},
     
-    {"date": "2020-10-01", "id": 1, "name": "Alisher Davlatov", "studentsCount": 450, "thisMonth": 25, "courses": 5},
-    {"date": "2020-09-01", "id": 2, "name": "Nizom Muhammaddov", "studentsCount": 300, "thisMonth": 21, "courses": 3},
-    {"date": "2020-10-01", "id": 2, "name": "Nizom Muhammaddov", "studentsCount": 450, "thisMonth": 25, "courses": 5}
+    
+    {"date": "2020-10-01", "id": 4, "name": "Muhammad Jumayev", "studentsCount": 300, "thisMonth": 21, "courses": 3, "income": 8300000, "given": 5300000, "qoldi": 3000000},
+    {"date": "2020-10-01", "id": 5, "name": "Farux Nurmatov", "studentsCount": 300, "thisMonth": 21, "courses": 3, "income": 8300000, "given": 5300000, "qoldi": 3000000},
+    {"date": "2020-10-01", "id": 6, "name": "Farux Nurmatov", "studentsCount": 300, "thisMonth": 21, "courses": 5, "income": 8300000, "given": 5300000, "qoldi": 3000000}
   ],
-  
-  "date": [
-    {"date": "2020-09-01", "id": 1, "name": "Alisher Davlatov", "studentsCount": 300, "thisMonth": 21, "courses": 3},
-    {"date": "2020-09-01", "id": 1, "name": "Nizom Muhammaddov", "studentsCount": 300, "thisMonth": 21, "courses": 3}
-  ]
-  
 }
