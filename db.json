@@ -16,37 +16,21 @@
             {"id": 11, "mentorId": 1, "date": "2020-12-01", "courseName": "Java Development", "modules": 3, "lessons": 30, "students": 100, "thisMonth": 1, "income": 3000000, "given": 1000000, "qoldi": 1000000},
             {"id": 12, "mentorId": 1, "date": "2020-12-01", "courseName": "FullStack Development", "modules": 2, "lessons": 24, "students": 130, "thisMonth": 12, "income": 1000000, "given": 1000000, "qoldi": 0},
   
-            {"id": 13, "mentorId": 2, "date": "2020-09-01", "courseName": "Frontend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3000000, "given": 2000000, "qoldi": 1000000},
-            {"id": 14, "mentorId": 2, "date": "2020-09-01", "courseName": "React JS", "modules": 3, "lessons": 30, "students": 80, "thisMonth": 7, "income": 4000000, "given": 2000000, "qoldi": 2000000},
-            {"id": 15, "mentorId": 2, "date": "2020-09-01", "courseName": "Node JS Full Stack", "modules": 2, "lessons": 24, "students": 100, "thisMonth": 2, "income": 1000000, "given": 1000000, "qoldi": 0},
-  
-            {"id": 16, "mentorId": 2, "date": "2020-10-01", "courseName": "Frontend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3000000, "given": 2000000, "qoldi": 1000000},
-            {"id": 17, "mentorId": 2, "date": "2020-10-01", "courseName": "React JS", "modules": 3, "lessons": 30, "students": 100, "thisMonth": 1, "income": 3000000, "given": 1000000, "qoldi": 1000000},
-            {"id": 18, "mentorId": 2, "date": "2020-10-01", "courseName": "Node JS Full Stack", "modules": 2, "lessons": 24, "students": 130, "thisMonth": 12, "income": 1000000, "given": 1000000, "qoldi": 0},
+            {"id": 13, "mentorId": 3, "date": "2020-09-01", "courseName": "Frontend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3000000, "given": 2000000, "qoldi": 1000000},
+            {"id": 14, "mentorId": 3, "date": "2020-09-01", "courseName": "React JS", "modules": 3, "lessons": 30, "students": 80, "thisMonth": 7, "income": 4000000, "given": 2000000, "qoldi": 2000000},
+            {"id": 15, "mentorId": 3, "date": "2020-09-01", "courseName": "SaaS va Less", "modules": 2, "lessons": 24, "students": 100, "thisMonth": 2, "income": 1000000, "given": 1000000, "qoldi": 0},
 
-            {"id": 19, "mentorId": 2, "date": "2020-11-01", "courseName": "Frontend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3000000, "given": 2000000, "qoldi": 1000000},
-            {"id": 20, "mentorId": 2, "date": "2020-11-01", "courseName": "React JS", "modules": 3, "lessons": 30, "students": 90, "thisMonth": 7, "income": 4000000, "given": 2000000, "qoldi": 2000000},
-            {"id": 21, "mentorId": 2, "date": "2020-11-01", "courseName": "Node JS Full Stack", "modules": 2, "lessons": 24, "students": 120, "thisMonth": 12, "income": 1000000, "given": 1000000, "qoldi": 0},
+            {"id": 16, "mentorId": 3, "date": "2020-10-01", "courseName": "Frontend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3000000, "given": 2000000, "qoldi": 1000000},
+            {"id": 17, "mentorId": 3, "date": "2020-10-01", "courseName": "React JS", "modules": 3, "lessons": 30, "students": 100, "thisMonth": 1, "income": 3000000, "given": 1000000, "qoldi": 1000000},
+            {"id": 18, "mentorId": 3, "date": "2020-10-01", "courseName": "SaaS va Less", "modules": 2, "lessons": 24, "students": 130, "thisMonth": 12, "income": 1000000, "given": 1000000, "qoldi": 0},
 
-            {"id": 22, "mentorId": 2, "date": "2020-12-01", "courseName": "Frontend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3000000, "given": 2000000, "qoldi": 1000000},
-            {"id": 23, "mentorId": 2, "date": "2020-12-01", "courseName": "React JS", "modules": 3, "lessons": 30, "students": 80, "thisMonth": 7, "income": 4000000, "given": 2000000, "qoldi": 2000000},
-            {"id": 24, "mentorId": 2, "date": "2020-12-01", "courseName": "Node JS Full Stack", "modules": 2, "lessons": 24, "students": 100, "thisMonth": 12, "income": 2000000, "given": 1000000, "qoldi": 1000000},
-
-            {"id": 25, "mentorId": 3, "date": "2020-09-01", "courseName": "Frontend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3000000, "given": 2000000, "qoldi": 1000000},
-            {"id": 26, "mentorId": 3, "date": "2020-09-01", "courseName": "React JS", "modules": 3, "lessons": 30, "students": 80, "thisMonth": 7, "income": 4000000, "given": 2000000, "qoldi": 2000000},
-            {"id": 27, "mentorId": 3, "date": "2020-09-01", "courseName": "SaaS va Less", "modules": 2, "lessons": 24, "students": 100, "thisMonth": 2, "income": 1000000, "given": 1000000, "qoldi": 0},
-
-            {"id": 28, "mentorId": 3, "date": "2020-10-01", "courseName": "Frontend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3000000, "given": 2000000, "qoldi": 1000000},
-            {"id": 29, "mentorId": 3, "date": "2020-10-01", "courseName": "React JS", "modules": 3, "lessons": 30, "students": 100, "thisMonth": 1, "income": 3000000, "given": 1000000, "qoldi": 1000000},
-            {"id": 30, "mentorId": 3, "date": "2020-10-01", "courseName": "SaaS va Less", "modules": 2, "lessons": 24, "students": 130, "thisMonth": 12, "income": 1000000, "given": 1000000, "qoldi": 0},
-
-            {"id": 31, "mentorId": 3, "date": "2020-11-01", "courseName": "Frontend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3000000, "given": 2000000, "qoldi": 1000000},
-            {"id": 32, "mentorId": 3, "date": "2020-11-01", "courseName": "React JS", "modules": 3, "lessons": 30, "students": 90, "thisMonth": 7, "income": 4000000, "given": 2000000, "qoldi": 2000000},
-            {"id": 33, "mentorId": 3, "date": "2020-11-01", "courseName": "SaaS va Less", "modules": 2, "lessons": 24, "students": 120, "thisMonth": 12, "income": 1000000, "given": 1000000, "qoldi": 0},
+            {"id": 19, "mentorId": 3, "date": "2020-11-01", "courseName": "Frontend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3000000, "given": 2000000, "qoldi": 1000000},
+            {"id": 20, "mentorId": 3, "date": "2020-11-01", "courseName": "React JS", "modules": 3, "lessons": 30, "students": 90, "thisMonth": 7, "income": 4000000, "given": 2000000, "qoldi": 2000000},
+            {"id": 21, "mentorId": 3, "date": "2020-11-01", "courseName": "SaaS va Less", "modules": 2, "lessons": 24, "students": 120, "thisMonth": 12, "income": 1000000, "given": 1000000, "qoldi": 0},
     
-            {"id": 34, "mentorId": 3, "date": "2020-12-01", "courseName": "Frontend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3000000, "given": 2000000, "qoldi": 1000000},
-            {"id": 35, "mentorId": 3, "date": "2020-12-01", "courseName": "React JS", "modules": 3, "lessons": 30, "students": 80, "thisMonth": 7, "income": 4000000, "given": 2000000, "qoldi": 2000000},
-            {"id": 36, "mentorId": 3, "date": "2020-12-01", "courseName": "SaaS va Less", "modules": 2, "lessons": 24, "students": 100, "thisMonth": 12, "income": 2000000, "given": 1000000, "qoldi": 1000000}
+            {"id": 22, "mentorId": 3, "date": "2020-12-01", "courseName": "Frontend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3000000, "given": 2000000, "qoldi": 1000000},
+            {"id": 23, "mentorId": 3, "date": "2020-12-01", "courseName": "React JS", "modules": 3, "lessons": 30, "students": 80, "thisMonth": 7, "income": 4000000, "given": 2000000, "qoldi": 2000000},
+            {"id": 24, "mentorId": 3, "date": "2020-12-01", "courseName": "SaaS va Less", "modules": 2, "lessons": 24, "students": 100, "thisMonth": 12, "income": 2000000, "given": 1000000, "qoldi": 1000000}
       ],
       
     "mentors": [
@@ -62,16 +46,15 @@
         {"id": 2, "date": "2020-10-01", "mentorId": 1, "studentsCount": 300, "thisMonth": 21, "courses": 3, "income": 9000000, "given": 5000000, "qoldi": 4000000},
         {"id": 3, "date": "2020-11-01", "mentorId": 1, "studentsCount": 330, "thisMonth": 21, "courses": 3, "income": 8000000, "given": 5000000, "qoldi": 3000000},
         {"id": 4, "date": "2020-12-01", "mentorId": 1, "studentsCount": 350, "thisMonth": 25, "courses": 3, "income": 7000000, "given": 4000000, "qoldi": 3000000},
-        {"id": 5, "date": "2020-09-01", "mentorId": 2, "studentsCount": 300, "thisMonth": 21, "courses": 3, "income": 8000000, "given": 5000000, "qoldi": 3000000},
-        {"id": 6, "date": "2020-10-01", "mentorId": 2, "studentsCount": 350, "thisMonth": 25, "courses": 3, "income": 7000000, "given": 4000000, "qoldi": 3000000},
-        {"id": 7, "date": "2020-11-01", "mentorId": 2, "studentsCount": 330, "thisMonth": 21, "courses": 3, "income": 8000000, "given": 5000000, "qoldi": 3000000},
-        {"id": 8, "date": "2020-12-01", "mentorId": 2, "studentsCount": 380, "thisMonth": 31, "courses": 3, "income": 9000000, "given": 5000000, "qoldi": 4000000},
-        {"id": 9, "date": "2020-09-01", "mentorId": 3, "studentsCount": 300, "thisMonth": 21, "courses": 3, "income": 8000000, "given": 5000000, "qoldi": 3000000},
-        {"id": 10, "date": "2020-10-01", "mentorId": 3, "studentsCount": 350, "thisMonth": 25, "courses": 3, "income": 7000000, "given": 4000000, "qoldi": 3000000},
-        {"id": 11, "date": "2020-11-01", "mentorId": 3, "studentsCount": 330, "thisMonth": 21, "courses": 3, "income": 8000000, "given": 5000000, "qoldi": 3000000},
-        {"id": 12, "date": "2020-12-01", "mentorId": 3, "studentsCount": 380, "thisMonth": 31, "courses": 3, "income": 9000000, "given": 5000000, "qoldi": 4000000},
+        
+        {"id": 5, "date": "2020-09-01", "mentorId": 2, "studentsCount": 350, "thisMonth": 25, "courses": 3, "income": 7000000, "given": 4000000, "qoldi": 3000000},
+        
+        {"id": 6, "date": "2020-09-01", "mentorId": 3, "studentsCount": 300, "thisMonth": 21, "courses": 3, "income": 8000000, "given": 5000000, "qoldi": 3000000},
+        {"id": 7, "date": "2020-10-01", "mentorId": 3, "studentsCount": 350, "thisMonth": 25, "courses": 3, "income": 7000000, "given": 4000000, "qoldi": 3000000},
+        {"id": 8, "date": "2020-11-01", "mentorId": 3, "studentsCount": 330, "thisMonth": 21, "courses": 3, "income": 8000000, "given": 5000000, "qoldi": 3000000},
+        {"id": 9, "date": "2020-12-01", "mentorId": 3, "studentsCount": 380, "thisMonth": 31, "courses": 3, "income": 9000000, "given": 5000000, "qoldi": 4000000},
 
-        {"id": 13, "date": "2020-10-01", "mentorId": 4, "studentsCount": 300, "thisMonth": 21, "courses": 3, "income": 8300000, "given": 5300000, "qoldi": 3000000},
-        {"id": 14, "date": "2020-10-01", "mentorId": 5, "studentsCount": 300, "thisMonth": 21, "courses": 3, "income": 8300000, "given": 5300000, "qoldi": 3000000}
+        {"id": 10, "date": "2020-09-01", "mentorId": 4, "studentsCount": 300, "thisMonth": 21, "courses": 3, "income": 8300000, "given": 5300000, "qoldi": 3000000},
+        {"id": 11, "date": "2020-09-01", "mentorId": 5, "studentsCount": 300, "thisMonth": 21, "courses": 3, "income": 8300000, "given": 5300000, "qoldi": 3000000}
   ]
 }
