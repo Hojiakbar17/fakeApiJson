@@ -50,11 +50,11 @@
       ],
       
     "mentors": [
-          {"id: 1", "name": "Alisher Davlatov"},
-          {"id: 2", "name": "Nizom Muhammaddov"},
-          {"id: 3", "name": "Dilshod Mirsoatov"},
-          {"id: 4", "name": "Muhammad Jumayev"},
-          {"id: 5", "name": "Farux Nurmatov"}
+          {"id": 1, "name": "Alisher Davlatov"},
+          {"id": 2, "name": "Nizom Muhammaddov"},
+          {"id": 3, "name": "Dilshod Mirsoatov"},
+          {"id": 4, "name": "Muhammad Jumayev"},
+          {"id": 5, "name": "Farux Nurmatov"}
     ],
       
   "dates": [
