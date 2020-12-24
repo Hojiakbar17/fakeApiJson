@@ -5,6 +5,11 @@
     {"id": 3, "firstName": "Vali", "lastName": "Aliyev"}
   ],
   
+  "phone": [
+    {"name": "Ali", "number": "+998 99 666 1111"},
+    {"name": "Vali", "number": "+998 99 666 2222"}
+  ]
+  
   "mentors": [
     {"date": "2020-09-01", "id": 1, "name": "Alisher Davlatov", "studentsCount": 300, "thisMonth": 21, "courses": 3, "income": 8300000, "given": 5300000, "qoldi": 3000000,
       "more": [
