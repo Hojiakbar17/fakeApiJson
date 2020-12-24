@@ -6,8 +6,8 @@
   ],
   
   "phone": [
-    {"name": "Ali", "number": "+998 99 666 1111"},
-    {"name": "Vali", "number": "+998 99 666 2222"}
+    {"firstName": "Ali", "number": "+998 99 666 1111"},
+    {"firstName": "Vali", "number": "+998 99 666 2222"}
   ],
   
   "mentors": [
