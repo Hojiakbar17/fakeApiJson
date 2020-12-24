@@ -48,13 +48,23 @@
         {"id": 4, "date": "2020-12-01", "mentorId": 1, "studentsCount": 350, "thisMonth": 25, "courses": 3, "income": 7000000, "given": 4000000, "qoldi": 3000000},
         
         {"id": 5, "date": "2020-09-01", "mentorId": 2, "studentsCount": 350, "thisMonth": 25, "courses": 3, "income": 7000000, "given": 4000000, "qoldi": 3000000},
+        {"id": 6, "date": "2020-10-01", "mentorId": 2, "studentsCount": 350, "thisMonth": 25, "courses": 3, "income": 8000000, "given": 4000000, "qoldi": 4000000},
+        {"id": 7, "date": "2020-11-01", "mentorId": 2, "studentsCount": 350, "thisMonth": 25, "courses": 3, "income": 6000000, "given": 3000000, "qoldi": 3000000},
+        {"id": 8, "date": "2020-12-01", "mentorId": 2, "studentsCount": 350, "thisMonth": 25, "courses": 3, "income": 9000000, "given": 5000000, "qoldi": 4000000},
         
-        {"id": 6, "date": "2020-09-01", "mentorId": 3, "studentsCount": 300, "thisMonth": 21, "courses": 3, "income": 8000000, "given": 5000000, "qoldi": 3000000},
-        {"id": 7, "date": "2020-10-01", "mentorId": 3, "studentsCount": 350, "thisMonth": 25, "courses": 3, "income": 7000000, "given": 4000000, "qoldi": 3000000},
-        {"id": 8, "date": "2020-11-01", "mentorId": 3, "studentsCount": 330, "thisMonth": 21, "courses": 3, "income": 8000000, "given": 5000000, "qoldi": 3000000},
-        {"id": 9, "date": "2020-12-01", "mentorId": 3, "studentsCount": 380, "thisMonth": 31, "courses": 3, "income": 9000000, "given": 5000000, "qoldi": 4000000},
+        {"id": 9, "date": "2020-09-01", "mentorId": 3, "studentsCount": 300, "thisMonth": 21, "courses": 3, "income": 8000000, "given": 5000000, "qoldi": 3000000},
+        {"id": 10, "date": "2020-10-01", "mentorId": 3, "studentsCount": 350, "thisMonth": 25, "courses": 3, "income": 7000000, "given": 4000000, "qoldi": 3000000},
+        {"id": 11, "date": "2020-11-01", "mentorId": 3, "studentsCount": 330, "thisMonth": 21, "courses": 3, "income": 8000000, "given": 5000000, "qoldi": 3000000},
+        {"id": 12, "date": "2020-12-01", "mentorId": 3, "studentsCount": 380, "thisMonth": 31, "courses": 3, "income": 9000000, "given": 5000000, "qoldi": 4000000},
 
-        {"id": 10, "date": "2020-09-01", "mentorId": 4, "studentsCount": 300, "thisMonth": 21, "courses": 3, "income": 8300000, "given": 5300000, "qoldi": 3000000},
-        {"id": 11, "date": "2020-09-01", "mentorId": 5, "studentsCount": 300, "thisMonth": 21, "courses": 3, "income": 8300000, "given": 5300000, "qoldi": 3000000}
+        {"id": 11, "date": "2020-09-01", "mentorId": 4, "studentsCount": 330, "thisMonth": 21, "courses": 3, "income": 8300000, "given": 5300000, "qoldi": 3000000},
+        {"id": 12, "date": "2020-10-01", "mentorId": 4, "studentsCount": 350, "thisMonth": 22, "courses": 3, "income": 7300000, "given": 4300000, "qoldi": 3000000},
+        {"id": 13, "date": "2020-11-01", "mentorId": 4, "studentsCount": 370, "thisMonth": 24, "courses": 3, "income": 9300000, "given": 5300000, "qoldi": 4000000},
+        {"id": 14, "date": "2020-12-01", "mentorId": 4, "studentsCount": 380, "thisMonth": 25, "courses": 3, "income": 6000000, "given": 3000000, "qoldi": 3000000},
+        
+        {"id": 15, "date": "2020-09-01", "mentorId": 5, "studentsCount": 310, "thisMonth": 21, "courses": 3, "income": 8300000, "given": 5300000, "qoldi": 3000000},
+        {"id": 16, "date": "2020-10-01", "mentorId": 5, "studentsCount": 330, "thisMonth": 18, "courses": 3, "income": 6300000, "given": 3300000, "qoldi": 3000000},
+        {"id": 17, "date": "2020-11-01", "mentorId": 5, "studentsCount": 350, "thisMonth": 23, "courses": 3, "income": 8300000, "given": 4300000, "qoldi": 4000000},
+        {"id": 18, "date": "2020-12-01", "mentorId": 5, "studentsCount": 360, "thisMonth": 24, "courses": 3, "income": 9300000, "given": 4000000, "qoldi": 3300000}
   ]
 }
