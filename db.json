@@ -96,5 +96,5 @@
     {"date": "2020-10-01", "id": 4, "name": "Muhammad Jumayev", "studentsCount": 300, "thisMonth": 21, "courses": 3, "income": 8300000, "given": 5300000, "qoldi": 3000000},
     {"date": "2020-10-01", "id": 5, "name": "Farux Nurmatov", "studentsCount": 300, "thisMonth": 21, "courses": 3, "income": 8300000, "given": 5300000, "qoldi": 3000000},
     {"date": "2020-10-01", "id": 6, "name": "Farux Nurmatov", "studentsCount": 300, "thisMonth": 21, "courses": 5, "income": 8300000, "given": 5300000, "qoldi": 3000000}
-  ],
+  ]
 }
