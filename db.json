@@ -1,5 +1,5 @@
 {
-      "more-mentor": [
+      "info-mentor": [
             {"id": 1, "mentorId": 1, "date": "2020-09-01", "courseName": "Backend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3200000, "given": 2200000, "qoldi": 1000000},
             {"id": 2, "mentorId": 1, "date": "2020-09-01", "courseName": "Java Development", "modules": 3, "lessons": 30, "students": 80, "thisMonth": 7, "income": 4100000, "given": 210000, "qoldi": 2000000},
             {"id": 3, "mentorId": 1, "date": "2020-09-01", "courseName": "FullStack Development", "modules": 2, "lessons": 24, "students": 100, "thisMonth": 12, "income": 1000000, "given": 1000000, "qoldi": 0},
