@@ -1,5 +1,5 @@
 {
-      "more": [
+      "more-mentor": [
             {"id": 1, "mentorId": 1, "date": "2020-09-01", "courseName": "Backend Development", "modules": 5, "lessons": 54, "students": 120, "thisMonth": 12, "income": 3200000, "given": 2200000, "qoldi": 1000000},
             {"id": 2, "mentorId": 1, "date": "2020-09-01", "courseName": "Java Development", "modules": 3, "lessons": 30, "students": 80, "thisMonth": 7, "income": 4100000, "given": 210000, "qoldi": 2000000},
             {"id": 3, "mentorId": 1, "date": "2020-09-01", "courseName": "FullStack Development", "modules": 2, "lessons": 24, "students": 100, "thisMonth": 12, "income": 1000000, "given": 1000000, "qoldi": 0},
@@ -41,7 +41,7 @@
           {"id": 5, "name": "Farux Nurmatov"}
     ],
       
-  "dates": [
+  "data-mentors": [
         {"id": 1, "date": "2020-09-01", "mentorId": 1, "studentsCount": 300, "thisMonth": 21, "courses": 3, "income": 8300000, "given": 5300000, "qoldi": 3000000},
         {"id": 2, "date": "2020-10-01", "mentorId": 1, "studentsCount": 300, "thisMonth": 21, "courses": 3, "income": 9000000, "given": 5000000, "qoldi": 4000000},
         {"id": 3, "date": "2020-11-01", "mentorId": 1, "studentsCount": 330, "thisMonth": 21, "courses": 3, "income": 8000000, "given": 5000000, "qoldi": 3000000},
